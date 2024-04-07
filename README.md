@@ -1,6 +1,14 @@
 # HR Analytics (Power BI Project)
 
-Here, the dashboard is designed in such a way that when I upload the CSV file with some details, it will display the data in the **Power BI Dashboard**, showing the details of "**Education Field**", "**Job Satisfaction Rating**", "**Age Group**",  "**Gender**".
+Here, the dashboard is designed in such a way that when I upload the CSV file with some details, it will display the data in the **Power BI Dashboard**, showing the details of: 
+
+<html>
+  <ul><li><b>Education Field</b></li></ul>
+  <ul><li><b>Job Satisfaction Rating</b></li></ul>
+  <ul><li><b>Age Group</b></li></ul>
+  <ul><li><b>Gender</b></li></ul>
+</html>
+
 The data will be displayed according to the department, such as "**Human Resources**", "**Research & Development**", and "**Sales**".
 
 Please check the provided screenshot.
